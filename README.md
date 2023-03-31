@@ -2,4 +2,6 @@
 
 - Eu Sou Francisco Douglas e vc?
 - ola 
-- Gabriel Hideki - teste
+- Gabriel Hideki Koyama
+- Lucas dos Reis
+- Wallace F. Noronha 
